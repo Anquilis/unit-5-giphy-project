@@ -17,12 +17,17 @@ Display the original image to the screen
 Day 2
 JS
 Take user input from the input box when button is clicked
+
 Update the API request url based on user input
+
 Display the image to the screen
 
 Day 3
 JS
+
 Complete one of the following extensions:
+
 Create a button that randomly chooses only one gif from response.
+
 Display all the images in the response to the screen.
 Create a mail_to link that will email the gif to anyone you want.
