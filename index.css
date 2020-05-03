@@ -1,0 +1,27 @@
+body {
+    padding-top: 200px;
+   /* Required padding for .navbar-fixed-top. Change if height of navigation changes. */
+   background-image: url("https://cdn.hipwallpaper.com/i/7/96/AKf6Qb.jpg");
+   font-family: 'Cedarville Cursive', cursive;
+}
+
+h1, p, a{text-align: center;}
+
+img {
+  width: 50%;
+}
+
+.row{
+  display: flex;
+  flex-wrap: wrap;
+}
+
+
+.navbar-brand {
+    color: white;	
+}
+
+footer {
+    padding-top: 100px;
+    margin: 50px 0;
+}
